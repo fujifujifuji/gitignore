@@ -9,7 +9,7 @@ vendor/
 /db/*.sqlite3-journal
 
 #DB
-/config/ridgepole/redgepole.yml
+/config/ridgepole/ridgepole.yml
 /config/database.yml
 
 
